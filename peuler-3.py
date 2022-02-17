@@ -47,7 +47,3 @@ def primes(n):
     return arr
 
 p3()
-
-
-# primes(775146)
-
